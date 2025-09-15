@@ -23,3 +23,4 @@ print("Tôi đến từ HCM.")
 # Chúc bạn thành công!
 # Lưu ý: Thay thế thông tin cá nhân trong ví dụ bằng thông tin của bạn.
 # Chạy chương trình và kiểm tra kết quả đầu ra.
+print("Hello test lẩn 1")
